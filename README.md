@@ -4,6 +4,9 @@
 <p align="left"> <a href="https://twitter.com/adpassward709" target="blank"><img src="https://img.shields.io/twitter/follow/adpassward709?logo=twitter&style=for-the-badge" alt="adpassward709" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align = "right">
+<img src="[the_path_to/image.svg](https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif)" width="128"/>
+ </p>
 
  ![Untitled design](https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif)
 
