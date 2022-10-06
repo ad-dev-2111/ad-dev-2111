@@ -4,6 +4,11 @@
 <p align="left"> <a href="https://twitter.com/adpassward709" target="blank"><img src="https://img.shields.io/twitter/follow/adpassward709?logo=twitter&style=for-the-badge" alt="adpassward709" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="right">
+  <img src="![Untitled design](https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif)
+" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 <p align="left">
 <a href="https://twitter.com/adpassward709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adpassward709" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-dwivedi-1aa82522a" height="30" width="40" /></a>
