@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Dwivedi</h1>
 <h3 align="center">An Artificial intelligence and machine learning student. I have Basic knowledge of c,c++,java, python and HTML.</h3>
+<p align = "right">
+<img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif" width="360"/>
+ </p>
 
 <p align="left"> <a href="https://twitter.com/adpassward709" target="blank"><img src="https://img.shields.io/twitter/follow/adpassward709?logo=twitter&style=for-the-badge" alt="adpassward709" /></a> </p>
 
 
-<p align = "right">
-<img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif" width="360"/>
- </p>
+
 <p align="left">
  <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/adpassward709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adpassward709" height="30" width="40" /></a>
