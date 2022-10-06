@@ -5,11 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align = "right">
-<img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif" width="128"/>
+<img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif" width="25VW"/>
  </p>
-
- ![Untitled design](https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif)
-
 <p align="left">
 <a href="https://twitter.com/adpassward709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adpassward709" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-dwivedi-1aa82522a" height="30" width="40" /></a>
