@@ -27,6 +27,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ad-dev-2111&show_icons=true&theme=tokyonight)
 
 <!-- Your language stats goes here -->
-![Your Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-dev-2111layout=compact&theme=tokyonight)
+![Your Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-dev-2111&layout=compact&theme=tokyonight)
 
 
