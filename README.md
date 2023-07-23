@@ -10,9 +10,11 @@
 <!-- Your introduction goes here -->
 
 <!-- Your stats goes here -->
+<p align = "center">
+ 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ad-dev-2111&show_icons=true&theme=tokyonight)
 
 <!-- Your language stats goes here -->
 ![Your Repository's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ad-dev-2111&layout=compact&theme=tokyonight)
 
-
+</p>
