@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Dwivedi</h1>
-<h3 align="center">An Artificial intelligence and machine learning student. I have Basic knowledge of c,c++,java, python and HTML.</h3>
+<h3 align="center">I am a student of artificial intelligence and machine learning, with a keen interest in applying these technologies to solve real-world problems. I have a solid foundation in programming languages such as C, C++, Java and Python, as well as web development skills using HTML, CSS, JavaScript and PHP. I am always eager to learn new tools and frameworks to enhance my knowledge and abilities in this fast-growing field.</h3>
 <p align = "right"><a href="https://github.com/ad-dev-2111" target="blank">
 <img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif"/></a>
  </p>
