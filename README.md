@@ -1,34 +1,88 @@
-<!-- ![header](https://github.com/ad-dev-2111/ad-dev-2111/assets/98655829/b89ef271-3b78-48cc-a2cb-45d486b4d182) -->
-
-<h1 align="center">Hi 👋, I'm Ashish Kumar Dwivedi</h1>
-<h3 align="center">
- Aspiring Artificial Intelligence and Machine Learning engineer with hands-on experience. Eager to apply AI technologies to solve real-world problems in a dynamic organization. Committed to continuous learning and leveraging expertise in machine learning, deep learning, and natural language processing to drive innovation and contribute to impactful projects.
-</h3>
-
-<!--<p align="center">
-  <a href="https://github.com/ad-dev-2111" target="blank">
-    <img src="https://user-images.githubusercontent.com/98655829/194303695-2f6d15ae-c49b-4a0f-9153-7b316c2350f6.gif" alt="GitHub" width="100px" />
-  </a>
-</p>-->
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm Ashish Kumar Dwivedi</h1>
+<h3 align="center">AI/ML Developer • Automation Engineer • Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/adpassward709" target="blank">
-    <img src="https://img.shields.io/twitter/follow/adpassward709?logo=twitter&style=for-the-badge" alt="Twitter" />
+  Passionate about building intelligent systems, automation workflows, and scalable full-stack solutions.  
+  I specialize in LLMs, RAG systems, chatbot development, workflow automation, and cloud deployments.
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://twitter.com/adpassward709" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adpassward709?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ad-dev-2111" target="_blank">
+    <img src="https://img.shields.io/github/followers/ad-dev-2111?logo=github&style=for-the-badge" />
   </a>
 </p>
 
-<!-- Add your introduction here -->
+---
 
+## 🚀 About Me
 
-<!-- Add your stats here -->
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ad-dev-2111&show_icons=true&theme=tokyonight" alt="Ashish's GitHub Stats" />
-</p>-->
+- 🔹 AI/ML Developer working with **LLMs, RAG systems, LangChain, Hugging Face, and Ollama**
+- 🔹 Automation Engineer using **UiPath, OpenRPA, n8n, Make.com, Zapier**
+- 🔹 Full-stack developer with **Next.js, React.js, Node.js, Express.js**
+- 🔹 Cloud deployment: **AWS EC2, Docker, GitHub Actions, CI/CD**
+- 🔹 Passionate about building **scalable, automated, intelligent applications**
 
-<!-- Add your language stats here -->
+---
+
+## 🧠 Tech Stack I Use
+
+### **AI / ML**
+`LangChain` · `Hugging Face` · `Ollama` · `TensorFlow` · `Scikit-learn` · `FAISS`
+
+### **Automation**
+`UiPath` · `OpenRPA` · `n8n` · `Make.com` · `Zapier`
+
+### **Full-Stack Development**
+`Next.js` · `React.js` · `Node.js` · `Express.js` · `Prisma`
+
+### **Databases**
+`PostgreSQL` · `MySQL` · `MongoDB`
+
+### **DevOps / Cloud**
+`Docker` · `AWS EC2` · `GitHub Actions` · `CI/CD`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **Institute Time-Table Management**
+Full-stack Next.js + MySQL app using genetic algorithms for conflict-free scheduling.
+
+### 🔹 **AI Agricultural Optimizer**
+ML model analyzing soil & weather data to recommend crops.
+
+### 🔹 **Sign Language to Text System**
+Real-time MediaPipe + LSTM model with 92% accuracy.
+
+### 🔹 **Passenger Counting System**
+YOLOv8 + Deep SORT for automated passenger census.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-dev-2111&layout=compact&theme=tokyonight" alt="Ashish's Language Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ad-dev-2111&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-dev-2111&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://github.com/ad-dev-2111"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+</p>
+
+---
+
+⭐ **Feel free to explore my repositories or reach out for collaboration on AI, automation, or full-stack projects!**
