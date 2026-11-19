@@ -70,13 +70,21 @@ YOLOv8 + Deep SORT for automated passenger census.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com" title="LinkedIn"><img src="https://skillicons.dev" height="50" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev" height="50" alt="GitHub"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pypi.org" title="PyPI"><img src="https://vercel.app" height="50" alt="PyPI"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://vercel.app" title="Portfolio"><img src="https://icons8.com" height="50" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/ashish-kumar-dwivedi-1aa82522a">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ad-dev-2111">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pypi.org/user/adpassward709/">
+    <img src="https://cdn.simpleicons.org/pypi" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ashish-kumar-dwivedi.vercel.app">
+    <img src="https://cdn.simpleicons.org/internetexplorer" height="50"/>
+  </a>
 </p>
 
 ---
