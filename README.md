@@ -83,7 +83,7 @@ YOLOv8 + Deep SORT for automated passenger census.
   </a>
   &nbsp;&nbsp;
   <a href="https://ashish-kumar-dwivedi.vercel.app">
-    <img src="https://cdn.simpleicons.org/internetexplorer" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
   </a>
 </p>
 
